@@ -1,13 +1,3 @@
-# Environment variables
-.env
-
-# Python compiled files
-*.pyc
-__pycache__/
-
-# Virtual environment
-env/
-venv/
-
-# Static assets
-static/
+# Default ignored files
+/shelf/
+/workspace.xml
